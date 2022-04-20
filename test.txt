@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-asdasdasda
-
-copy2
-=======
->>>>>>> parent of bc6541d (수정1)
-copy2
+master
